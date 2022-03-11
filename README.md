@@ -1,6 +1,6 @@
 # Disintegrating Dinosaurs, but fast
 
-This is an application based on [Same Stats, Different Graphs](https://www.autodesk.com/research/publications/same-stats-different-graphs), where we speed up the process of transforming the graphs and add some functionality to transform graphs into the form of 16x16 images. Our implementation of the algorithm in C++ is much faster than the original algorithm in Python: 100000 iterations can take 3+ minutes in the original implementation. Our implementation does it in 0.08 seconds.
+This is an application based on [Same Stats, Different Graphs](https://www.autodesk.com/research/publications/same-stats-different-graphs), where we speed up the process of transforming the graphs and add some functionality to transform graphs into the form of 16x16 images. Our implementation of the algorithm in C++ is much faster than the original algorithm in Python: 100000 iterations can take 3+ minutes in the original implementation. Our implementation does it in 0.08 seconds. A detailed list of our optimizations can be found in [Disintegrating Dinosaurs, but fast](paper.pdf).
 
 ![animation](animations/dick.gif)
 
