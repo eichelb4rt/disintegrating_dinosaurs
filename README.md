@@ -2,6 +2,8 @@
 
 This is an application based on [Same Stats, Different Graphs](https://www.autodesk.com/research/publications/same-stats-different-graphs), where we speed up the process of transforming the graphs and add some functionality to transform graphs into the form of 16x16 images. Our implementation of the algorithm in C++ is much faster than the original algorithm in Python: 100000 iterations can take 3+ minutes in the original implementation. Our implementation does it in 0.08 seconds.
 
+![animation](animations/dick.gif)
+
 This repository originated from Maurice Wenig's and Nick Würflein's project for the lecture "Algorithm Engineering" at the Friedrich-Schiller-University Jena.
 
 ## Build
