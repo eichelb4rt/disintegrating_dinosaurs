@@ -1,0 +1,9 @@
+{
+    "type": "rectangle",
+    "parameters": {
+        "rectangle_start_x": 40,
+        "rectangle_start_y": 30,
+        "rectangle_width": 30,
+        "rectangle_height": 50
+    }
+}

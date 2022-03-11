@@ -1,0 +1,9 @@
+{
+    "type": "image",
+    "parameters": {
+        "offset_x": 5,
+        "offset_y": 0,
+        "scale": 5.4,
+        "image_path": "images/dick_diagonal_2.png"
+    }
+}

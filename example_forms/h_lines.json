@@ -1,0 +1,11 @@
+{
+    "type": "parallel_lines",
+    "parameters": {
+        "n_lines": 5,
+        "center_x": 50,
+        "center_y": 50,
+        "length": 80,
+        "distance": 20,
+        "angle": 0
+    }
+}

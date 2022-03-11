@@ -1,0 +1,8 @@
+{
+    "type": "cross",
+    "parameters": {
+        "center_x": 50,
+        "center_y": 50,
+        "leg_length": 40
+    }
+}

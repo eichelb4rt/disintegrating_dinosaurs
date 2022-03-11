@@ -1,0 +1,10 @@
+{
+    "type": "star",
+    "parameters": {
+        "n_peaks": 5,
+        "center_x": 50,
+        "center_y": 50,
+        "size": 40,
+        "stretch": 0.5
+    }
+}

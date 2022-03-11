@@ -1,0 +1,9 @@
+{
+    "type": "image",
+    "parameters": {
+        "offset_x": 0,
+        "offset_y": 0,
+        "scale": 6,
+        "image_path": "images/3_lines_diagonal.png"
+    }
+}

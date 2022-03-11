@@ -1,0 +1,7 @@
+{
+    "shake": 0.1,
+    "allowed_dist": 2,
+    "digits": 2,
+    "min_temp": 0,
+    "max_temp": 0.4
+}

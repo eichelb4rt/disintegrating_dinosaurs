@@ -1,0 +1,9 @@
+{
+    "type": "bullseye",
+    "parameters": {
+        "center_x": 50,
+        "center_y": 55,
+        "inner_radius": 18,
+        "outer_radius": 37
+    }
+}

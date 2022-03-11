@@ -1,0 +1,8 @@
+{
+    "type": "circle",
+    "parameters": {
+        "circle_center_x": 45,
+        "circle_center_y": 50,
+        "circle_radius": 30
+    }
+}
