@@ -4,6 +4,22 @@ This is an application based on [Same Stats, Different Graphs](https://www.autod
 
 ![animation](animations/dick.gif)
 
+```text
+initial stats:
+mean x: 54.2633
+mean y: 47.8323
+sd x:   16.706
+sd y:   26.8404
+correlation:    -0.0644719
+
+new stats:
+mean x: 54.2653
+mean y: 47.8312
+sd x:   16.7054
+sd y:   26.8412
+correlation:    -0.0600962
+```
+
 This repository originated from Maurice Wenig's and Nick Würflein's project for the lecture "Algorithm Engineering" at the Friedrich-Schiller-University Jena.
 
 ## Build
